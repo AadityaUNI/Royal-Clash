@@ -10,6 +10,10 @@ A tower defense strategy game built in C++ using SFML (Simple and Fast Multimedi
 - **Deck System** - Manage and deploy units from your deck
 - **Elixir Management** - Strategically spend elixir to deploy units
 
+## Screenshots:
+<img width="1169" height="571" alt="image" src="https://github.com/user-attachments/assets/7924609a-4997-471d-9125-d90313604b5c" />
+<img width="1168" height="576" alt="image" src="https://github.com/user-attachments/assets/7dbafdc1-a44d-4679-873c-34aab5479375" />
+
 ## Prerequisites
 
 Before running the game, ensure you have **SFML** installed on your system. 
