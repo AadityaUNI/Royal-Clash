@@ -1,2 +1,2 @@
-Player 1 - 13/23
-Player 2 - 23/13
+Player 1 - 14/23
+Player 2 - 23/14

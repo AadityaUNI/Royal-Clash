@@ -1,7 +1,5 @@
-royal_clash
+.DS_store
+.vscode
 obj
-<<<<<<< HEAD
 *.o
-=======
->>>>>>> main
 test
